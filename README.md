@@ -1,3 +1,3 @@
-# travis-broken-example[![Build Status](https://travis-ci.org/travis-ci/travis-github-sync.png?branch=master)](https://travis-ci.org/travis-ci/travis-github-sync)
+# travis-broken-example[![Build Status](https://travis-ci.org/wfxr/travis-broken-example.svg?branch=master)](https://travis-ci.org/wfxr/travis-broken-example)
 
 An example that will cause a build failure
